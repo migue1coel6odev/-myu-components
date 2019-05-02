@@ -1,6 +1,6 @@
 {
-  "name": "base-list",
-  "version": "0.0.3",
+  "name": "@myu-components-test/base-list",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "miguelcoelhodev <miguelcoelhodev@gmail.com>",
   "homepage": "https://github.com/migue1coel6odev/-myu-components#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/migue1coel6odev/-myu-components/issues"
   },
-  "gitHead": "1163c00e31c09f702e6a89f984568ec6224ec111"
+  "gitHead": "f1c2780b7599336de67b7cf199a72fba35effe85"
 }
