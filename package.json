@@ -2,5 +2,8 @@
   "name": "myu-components-test",
   "devDependencies": {
     "lerna": "^3.13.4"
-  }
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
